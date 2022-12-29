@@ -1,0 +1,11 @@
+identity = "aaa" # header 中的 identity 字段
+authorization = "Basic zzz" # header 中的 authorization 字段
+blade_auth = "aaa" # header 中的 blade_auth 字段
+
+[sites]
+jc = "1558997828460613635" # <目标文件名> = <site_id>
+jcsj = "1558997826539622403"
+
+[assignments]
+a = "v" # <作业名> = <正则表达式>
+c = "d"
